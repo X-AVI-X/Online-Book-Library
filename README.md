@@ -5,6 +5,7 @@
 [![Spring Security 6](https://img.shields.io/badge/Spring%20Security-6.0-6DB33F?style=flat&logo=springsecurity&logoColor=white)](https://spring.io/projects/spring-security)
 [![JWT Authentication](https://img.shields.io/badge/Auth-Stateless%20JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
 [![Spring Data JPA](https://img.shields.io/badge/ORM-Hibernate%20%2F%20JPA-59666C?style=flat&logo=hibernate&logoColor=white)](https://spring.io/projects/spring-data-jpa)
+[![Build Status](https://github.com/X-AVI-X/Online-Book-Library/actions/workflows/ci.yml/badge.svg)](https://github.com/X-AVI-X/Online-Book-Library/actions)
 [![Build Tool](https://img.shields.io/badge/Build-Gradle-02303A?style=flat&logo=gradle&logoColor=white)](https://gradle.org/)
 
 A secure, enterprise-grade Book Management & Circulation RESTful API built with **Java 17**, **Spring Boot 3**, and **Spring Security 6**. The system enforces stateless **JWT (JSON Web Token)** authentication, granular Role-Based Access Control (RBAC), transactional book lending/reservation workflows, and custom centralized exception handling.
